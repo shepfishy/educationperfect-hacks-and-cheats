@@ -4,8 +4,8 @@
 1. Extract the zip and enter its home directory.
 2. Install 'nvm' (node version manager)
 3. Use terminal (Intructions below)
-'''	
- 
+
+``` 
 ~$ nvm install 14
 	
 ~$ nvm ls
@@ -31,8 +31,8 @@
 #Switch to latest node version
 
 ~$ ./start.sh 
+```
 
-'''
  #Or whichever suites your installed OS.
 
 5. When on a list simply type 'refresh' into the terminal to load the words into a list for easy access
