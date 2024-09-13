@@ -5,31 +5,33 @@
 2. Install 'nvm' (node version manager)
 3. Use terminal (Intructions below)
 '''	
- ~$ nvm install 14
-	
- ~$ nvm ls
-	
- #Used to verify nodejs 14.x.x installation.
-	
- ~$ nvm use 14.x.x
-	
- ~$ npm install puppeteer
-	
- #npm is a tool packaged with nodejs.
-	
- ~$ nvm install node
-	
- #installs latest node version (uninstall last if neccessary).
-	
- ~$ nvm ls
-	
- #Show latest node version installed and use nvm to start using the latest version.
-	
- ~$ nvm use x.x.x
  
- #Switch to latest node version
+~$ nvm install 14
+	
+~$ nvm ls
+	
+#Used to verify nodejs 14.x.x installation.
+	
+~$ nvm use 14.x.x
+	
+~$ npm install puppeteer
+	
+#npm is a tool packaged with nodejs.
 
- ~$ ./start.sh 
+~$ nvm install node
+	
+#installs latest node version (uninstall last if neccessary).
+	
+~$ nvm ls
+	
+#Show latest node version installed and use nvm to start using the latest version.
+	
+~$ nvm use x.x.x
+ 
+#Switch to latest node version
+
+~$ ./start.sh 
+
 '''
  #Or whichever suites your installed OS.
 
